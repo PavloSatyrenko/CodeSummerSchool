@@ -1,0 +1,11 @@
+C:\Users\OVGorsky\Triangle\obj\Debug\netcoreapp2.1\triangle.csprojAssemblyReference.cache
+C:\Users\OVGorsky\Triangle\obj\Debug\netcoreapp2.1\triangle.csproj.CoreCompileInputs.cache
+C:\Users\OVGorsky\Triangle\obj\Debug\netcoreapp2.1\triangle.AssemblyInfoInputs.cache
+C:\Users\OVGorsky\Triangle\obj\Debug\netcoreapp2.1\triangle.AssemblyInfo.cs
+C:\Users\OVGorsky\Triangle\bin\Debug\netcoreapp2.1\triangle.deps.json
+C:\Users\OVGorsky\Triangle\bin\Debug\netcoreapp2.1\triangle.runtimeconfig.json
+C:\Users\OVGorsky\Triangle\bin\Debug\netcoreapp2.1\triangle.runtimeconfig.dev.json
+C:\Users\OVGorsky\Triangle\bin\Debug\netcoreapp2.1\triangle.dll
+C:\Users\OVGorsky\Triangle\bin\Debug\netcoreapp2.1\triangle.pdb
+C:\Users\OVGorsky\Triangle\obj\Debug\netcoreapp2.1\triangle.dll
+C:\Users\OVGorsky\Triangle\obj\Debug\netcoreapp2.1\triangle.pdb

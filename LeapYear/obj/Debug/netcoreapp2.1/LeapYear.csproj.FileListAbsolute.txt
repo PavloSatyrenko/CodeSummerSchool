@@ -1,0 +1,11 @@
+C:\Users\OVGorsky\LeapYear\obj\Debug\netcoreapp2.1\LeapYear.csprojAssemblyReference.cache
+C:\Users\OVGorsky\LeapYear\obj\Debug\netcoreapp2.1\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\OVGorsky\LeapYear\obj\Debug\netcoreapp2.1\LeapYear.AssemblyInfoInputs.cache
+C:\Users\OVGorsky\LeapYear\obj\Debug\netcoreapp2.1\LeapYear.AssemblyInfo.cs
+C:\Users\OVGorsky\LeapYear\bin\Debug\netcoreapp2.1\LeapYear.deps.json
+C:\Users\OVGorsky\LeapYear\bin\Debug\netcoreapp2.1\LeapYear.runtimeconfig.json
+C:\Users\OVGorsky\LeapYear\bin\Debug\netcoreapp2.1\LeapYear.runtimeconfig.dev.json
+C:\Users\OVGorsky\LeapYear\bin\Debug\netcoreapp2.1\LeapYear.dll
+C:\Users\OVGorsky\LeapYear\bin\Debug\netcoreapp2.1\LeapYear.pdb
+C:\Users\OVGorsky\LeapYear\obj\Debug\netcoreapp2.1\LeapYear.dll
+C:\Users\OVGorsky\LeapYear\obj\Debug\netcoreapp2.1\LeapYear.pdb
